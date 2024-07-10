@@ -1,0 +1,17 @@
+table {
+	width: 100%;
+	border: 1px solid red !important;
+}
+
+table thead {
+	padding: 3px;
+	border: 1px solid orangered;
+}
+table th {
+	padding: 10px;
+	border: 1px solid orangered !important;
+}
+table td {
+	padding: 10px;
+	border: 1px solid orangered;
+}
